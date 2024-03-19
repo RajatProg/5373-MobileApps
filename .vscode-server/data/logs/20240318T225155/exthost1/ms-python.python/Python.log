@@ -1,0 +1,46 @@
+2024-03-18 22:52:05.815 [info] Experiment 'pythonaacf' is active
+2024-03-18 22:52:05.815 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-18 22:52:05.815 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-18 22:52:05.815 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-18 22:52:05.815 [info] Experiment 'pythonTestAdapter' is active
+2024-03-18 22:52:05.815 [info] Default formatter is set to null for workspace /root/MobileAppenv
+2024-03-18 22:52:05.815 [info] Test server listening.
+2024-03-18 22:52:05.815 [info] Python interpreter path: ./.venv/bin/python
+2024-03-18 22:52:07.494 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-18 22:52:07.494 [info] shell: bash
+2024-03-18 22:52:07.747 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-18 22:52:07.747 [info] shell: bash
+2024-03-18 22:52:07.885 [info] Send text to terminal: /bin/python3 /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+2024-03-18 22:52:10.417 [info] Starting Pylance language server.
+2024-03-18 22:59:33.513 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 22:59:33.799 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 22:59:34.152 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:00:07.410 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-18 23:00:07.725 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-18 23:00:08.049 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-18 23:00:08.433 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-18 23:04:17.191 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:04:17.465 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:04:17.830 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:04:53.347 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:06:14.671 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:09:57.377 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:10:04.984 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:10:05.283 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:10:40.237 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:10:40.570 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/loadMongo.py
+2024-03-18 23:30:50.958 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:30:51.440 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:37:31.816 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:37:32.229 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:37:32.562 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:37:32.913 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:51:03.765 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:51:04.114 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-18 23:51:04.494 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 01:50:07.516 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 01:50:07.904 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 01:54:25.843 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 01:54:26.197 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 01:54:26.556 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 02:05:16.886 [info] Send text to terminal:  /usr/bin/env /root/MobileAppenv/.venv/bin/python /root/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 37073 -- /root/MobileAppenv/candyAPI/mongoManager.py 

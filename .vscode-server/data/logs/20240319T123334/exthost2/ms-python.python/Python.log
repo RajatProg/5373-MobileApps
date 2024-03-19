@@ -1,0 +1,29 @@
+2024-03-19 14:28:37.777 [info] Experiment 'pythonaacf' is active
+2024-03-19 14:28:37.778 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-19 14:28:37.778 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-19 14:28:37.778 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-19 14:28:37.778 [info] Experiment 'pythonTestAdapter' is active
+2024-03-19 14:28:37.778 [info] Default formatter is set to null for workspace /root/MobileAppenv
+2024-03-19 14:28:37.778 [info] Test server listening.
+2024-03-19 14:28:37.778 [info] Python interpreter path: ./.venv/bin/python
+2024-03-19 14:28:39.150 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-19 14:28:39.150 [info] shell: bash
+2024-03-19 14:28:39.248 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-19 14:28:39.248 [info] shell: bash
+2024-03-19 14:28:39.333 [info] Send text to terminal: /bin/python3 /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+2024-03-19 14:28:41.670 [info] Starting Pylance language server.
+2024-03-19 14:35:25.496 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 14:35:25.897 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 14:35:26.368 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/mongoManager.py
+2024-03-19 14:36:29.830 [info] Running installed packages checker:  /root/MobileAppenv/.venv/bin/python /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /root/MobileAppenv/candyAPI/requirements.txt
+2024-03-19 14:36:29.830 [info] > ./.venv/bin/python ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./candyAPI/requirements.txt
+2024-03-19 14:46:15.163 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:46:15.500 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:46:15.849 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:46:16.228 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:46:16.583 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:46:16.941 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:49:06.843 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:49:07.264 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:49:07.573 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py
+2024-03-19 14:49:07.917 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv/candyAPI/api.py

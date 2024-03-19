@@ -1,0 +1,17 @@
+2024-03-15 21:24:15.143 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-15 21:24:16.339 [info] [Info  - 9:24:16 PM] (30465) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-15 21:24:16.339 [info] [Info  - 9:24:16 PM] (30465) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-15 21:24:16.340 [info] [Info  - 9:24:16 PM] (30465) Starting service instance "MobileAppenv"
+2024-03-15 21:24:16.553 [info] [Info  - 9:24:16 PM] (30465) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-15 21:24:16.561 [info] [Info  - 9:24:16 PM] (30465) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-15 21:24:16.659 [info] [Info  - 9:24:16 PM] (30465) Assuming Python version 3.11
+2024-03-15 21:24:16.963 [info] [Info  - 9:24:16 PM] (30465) Auto-excluding /root/MobileAppenv
+2024-03-15 21:24:16.975 [info] [Info  - 9:24:16 PM] (30465) No source files found.
+2024-03-15 21:24:17.785 [info] [Info  - 9:24:17 PM] (30465) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-15 21:24:17.797 [info] [Info  - 9:24:17 PM] (30465) Background analysis(1) started
+2024-03-15 22:16:59.425 [info] [Info  - 10:16:59 PM] (30465) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-15 22:16:59.425 [info] [Info  - 10:16:59 PM] (30465) Indexing(2) started
+2024-03-15 22:17:01.513 [info] [Info  - 10:17:01 PM] (30465) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (2068ms)
+2024-03-15 22:17:01.514 [info] [Info  - 10:17:01 PM] (30465) scanned(2) 76 files over 1 exec env
+2024-03-15 22:17:03.569 [info] [Info  - 10:17:03 PM] (30465) indexed(2) 66 files over 1 exec env
+2024-03-15 22:17:03.773 [info] [Info  - 10:17:03 PM] (30465) Indexing finished(2).

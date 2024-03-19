@@ -1,0 +1,86 @@
+2024-03-15 14:44:15.041 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-15 14:44:16.882 [info] [Info  - 2:44:16 PM] (18240) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-15 14:44:16.883 [info] [Info  - 2:44:16 PM] (18240) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-15 14:44:16.883 [info] [Info  - 2:44:16 PM] (18240) Starting service instance "MobileAppenv"
+2024-03-15 14:44:17.227 [info] [Info  - 2:44:17 PM] (18240) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-15 14:44:17.228 [info] [Info  - 2:44:17 PM] (18240) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-15 14:44:17.343 [info] [Info  - 2:44:17 PM] (18240) Assuming Python version 3.11
+2024-03-15 14:44:17.600 [info] [Info  - 2:44:17 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:44:17.606 [info] [Info  - 2:44:17 PM] (18240) No source files found.
+2024-03-15 14:44:19.540 [info] [Info  - 2:44:19 PM] (18240) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-15 14:44:19.544 [info] [Info  - 2:44:19 PM] (18240) Background analysis(1) started
+2024-03-15 14:44:20.145 [info] [Info  - 2:44:20 PM] (18240) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-15 14:44:20.145 [info] [Info  - 2:44:20 PM] (18240) Indexing(2) started
+2024-03-15 14:44:24.989 [info] [Info  - 2:44:24 PM] (18240) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (4793ms)
+2024-03-15 14:44:24.989 [info] [Info  - 2:44:24 PM] (18240) scanned(2) 76 files over 1 exec env
+2024-03-15 14:44:29.389 [info] [Info  - 2:44:29 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (8631ms)
+2024-03-15 14:44:29.389 [info] [Info  - 2:44:29 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (9656ms)
+2024-03-15 14:44:30.072 [info] [Info  - 2:44:30 PM] (18240) indexed(2) 66 files over 1 exec env
+2024-03-15 14:44:30.341 [info] [Info  - 2:44:30 PM] (18240) Indexing finished(2).
+2024-03-15 14:46:58.507 [info] [Info  - 2:46:58 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:46:58.516 [info] [Info  - 2:46:58 PM] (18240) No source files found.
+2024-03-15 14:47:03.697 [info] [Info  - 2:47:03 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (4663ms)
+2024-03-15 14:47:03.698 [info] [Info  - 2:47:03 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (5143ms)
+2024-03-15 14:47:04.412 [info] [Info  - 2:47:04 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:47:04.414 [info] [Info  - 2:47:04 PM] (18240) No source files found.
+2024-03-15 14:47:05.569 [info] [Info  - 2:47:05 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:47:05.572 [info] [Info  - 2:47:05 PM] (18240) No source files found.
+2024-03-15 14:47:06.352 [info] [Info  - 2:47:06 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:47:06.354 [info] [Info  - 2:47:06 PM] (18240) No source files found.
+2024-03-15 14:47:07.623 [info] [Info  - 2:47:07 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:47:07.626 [info] [Info  - 2:47:07 PM] (18240) No source files found.
+2024-03-15 14:47:12.129 [info] [Info  - 2:47:12 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (4263ms)
+2024-03-15 14:47:12.129 [info] [Info  - 2:47:12 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (4474ms)
+2024-03-15 14:49:18.497 [info] [Info  - 2:49:18 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:49:18.500 [info] [Info  - 2:49:18 PM] (18240) No source files found.
+2024-03-15 14:49:18.924 [info] [Info  - 2:49:18 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:49:18.924 [info] [Info  - 2:49:18 PM] (18240) No source files found.
+2024-03-15 14:49:19.360 [info] [Info  - 2:49:19 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:49:19.362 [info] [Info  - 2:49:19 PM] (18240) No source files found.
+2024-03-15 14:49:20.347 [info] [Info  - 2:49:20 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:49:20.347 [info] [Info  - 2:49:20 PM] (18240) No source files found.
+2024-03-15 14:49:22.452 [info] [Info  - 2:49:22 PM] (18240) Auto-excluding /root/MobileAppenv
+2024-03-15 14:49:22.452 [info] [Info  - 2:49:22 PM] (18240) No source files found.
+2024-03-15 14:49:25.638 [info] [Info  - 2:49:25 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (2620ms)
+2024-03-15 14:49:25.639 [info] [Info  - 2:49:25 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (2872ms)
+2024-03-15 14:56:12.144 [info] [Info  - 2:56:12 PM] (18240) Indexer background runner(3) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (refresh)
+2024-03-15 14:56:12.145 [info] [Info  - 2:56:12 PM] (18240) Indexing(3) started
+2024-03-15 14:56:20.319 [info] [Info  - 2:56:20 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (12083ms)
+2024-03-15 14:56:20.320 [info] [Info  - 2:56:20 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (13125ms)
+2024-03-15 14:56:20.372 [info] [Info  - 2:56:20 PM] (18240) [IDX(3)] Long operation: scan packages file:///root/MobileAppenv (8168ms)
+2024-03-15 14:56:20.376 [info] [Info  - 2:56:20 PM] (18240) scanned(3) 76 files over 1 exec env
+2024-03-15 14:56:25.376 [info] [Info  - 2:56:25 PM] (18240) indexed(3) 66 files over 1 exec env
+2024-03-15 14:56:25.696 [info] [Info  - 2:56:25 PM] (18240) Indexing finished(3).
+2024-03-15 14:59:21.040 [info] [Info  - 2:59:21 PM] (18240) Indexer background runner(4) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (refresh)
+2024-03-15 14:59:21.041 [info] [Info  - 2:59:21 PM] (18240) Indexing(4) started
+2024-03-15 14:59:24.374 [info] [Info  - 2:59:24 PM] (18240) [IDX(4)] Long operation: scan packages file:///root/MobileAppenv (2589ms)
+2024-03-15 14:59:24.375 [info] [Info  - 2:59:24 PM] (18240) scanned(4) 76 files over 1 exec env
+2024-03-15 14:59:25.738 [info] [Info  - 2:59:25 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (6193ms)
+2024-03-15 14:59:25.739 [info] [Info  - 2:59:25 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (6751ms)
+2024-03-15 14:59:27.100 [info] [Info  - 2:59:27 PM] (18240) indexed(4) 66 files over 1 exec env
+2024-03-15 14:59:27.293 [info] [Info  - 2:59:27 PM] (18240) Indexing finished(4).
+2024-03-15 15:00:02.831 [info] [Info  - 3:00:02 PM] (18240) Indexer background runner(5) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (refresh)
+2024-03-15 15:00:02.831 [info] [Info  - 3:00:02 PM] (18240) Indexing(5) started
+2024-03-15 15:00:05.441 [info] [Info  - 3:00:05 PM] (18240) [IDX(5)] Long operation: scan packages file:///root/MobileAppenv (2104ms)
+2024-03-15 15:00:05.441 [info] [Info  - 3:00:05 PM] (18240) scanned(5) 76 files over 1 exec env
+2024-03-15 15:00:05.666 [info] [Info  - 3:00:05 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (4917ms)
+2024-03-15 15:00:05.666 [info] [Info  - 3:00:05 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (5210ms)
+2024-03-15 15:00:07.088 [info] [Info  - 3:00:07 PM] (18240) indexed(5) 66 files over 1 exec env
+2024-03-15 15:00:07.297 [info] [Info  - 3:00:07 PM] (18240) Indexing finished(5).
+2024-03-15 15:00:34.292 [info] [Info  - 3:00:34 PM] (18240) Indexer background runner(6) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (refresh)
+2024-03-15 15:00:34.293 [info] [Info  - 3:00:34 PM] (18240) Indexing(6) started
+2024-03-15 15:00:36.452 [info] [Info  - 3:00:36 PM] (18240) scanned(6) 76 files over 1 exec env
+2024-03-15 15:00:36.583 [info] [Info  - 3:00:36 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (3367ms)
+2024-03-15 15:00:36.584 [info] [Info  - 3:00:36 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (3623ms)
+2024-03-15 15:00:37.749 [info] [Info  - 3:00:37 PM] (18240) indexed(6) 66 files over 1 exec env
+2024-03-15 15:00:37.920 [info] [Info  - 3:00:37 PM] (18240) Indexing finished(6).
+2024-03-15 15:18:01.481 [info] [Info  - 3:18:01 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (10774ms)
+2024-03-15 15:18:01.481 [info] [Info  - 3:18:01 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (11676ms)
+2024-03-15 15:23:19.388 [info] [Info  - 3:23:19 PM] (18240) Indexer background runner(7) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (refresh)
+2024-03-15 15:23:19.389 [info] [Info  - 3:23:19 PM] (18240) Indexing(7) started
+2024-03-15 15:23:23.629 [info] [Info  - 3:23:23 PM] (18240) [IDX(7)] Long operation: scan packages file:///root/MobileAppenv (2957ms)
+2024-03-15 15:23:23.629 [info] [Info  - 3:23:23 PM] (18240) scanned(7) 76 files over 1 exec env
+2024-03-15 15:23:32.701 [info] [Info  - 3:23:32 PM] (18240) indexed(7) 66 files over 1 exec env
+2024-03-15 15:23:33.179 [info] [Info  - 3:23:33 PM] (18240) Indexing finished(7).
+2024-03-15 15:23:33.893 [info] [Info  - 3:23:33 PM] (18240) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (15574ms)
+2024-03-15 15:23:33.894 [info] [Info  - 3:23:33 PM] (18240) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (16043ms)

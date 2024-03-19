@@ -1,0 +1,38 @@
+2024-03-18 22:52:08.092 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-18 22:52:10.287 [info] [Info  - 10:52:10 PM] (55856) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-18 22:52:10.287 [info] [Info  - 10:52:10 PM] (55856) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-18 22:52:10.288 [info] [Info  - 10:52:10 PM] (55856) Starting service instance "MobileAppenv"
+2024-03-18 22:52:10.542 [info] [Info  - 10:52:10 PM] (55856) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-18 22:52:10.542 [info] [Info  - 10:52:10 PM] (55856) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-18 22:52:10.709 [info] [Info  - 10:52:10 PM] (55856) Assuming Python version 3.11
+2024-03-18 22:52:10.964 [info] [Info  - 10:52:10 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 22:52:10.970 [info] [Info  - 10:52:10 PM] (55856) No source files found.
+2024-03-18 22:52:13.713 [info] [Info  - 10:52:13 PM] (55856) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-18 22:52:13.728 [info] [Info  - 10:52:13 PM] (55856) Background analysis(1) started
+2024-03-18 22:52:14.321 [info] [Info  - 10:52:14 PM] (55856) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-18 22:52:14.321 [info] [Info  - 10:52:14 PM] (55856) Indexing(2) started
+2024-03-18 22:52:18.469 [info] [Info  - 10:52:18 PM] (55856) [BG(1)] Long operation: checking: file:///root/MobileAppenv/candyAPI/test_mongo.py (3015ms)
+2024-03-18 22:52:18.473 [info] [Info  - 10:52:18 PM] (55856) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/candyAPI/test_mongo.py (4384ms)
+2024-03-18 22:52:19.289 [info] [Info  - 10:52:19 PM] (55856) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (4945ms)
+2024-03-18 22:52:19.289 [info] [Info  - 10:52:19 PM] (55856) scanned(2) 76 files over 1 exec env
+2024-03-18 22:52:23.249 [info] [Info  - 10:52:23 PM] (55856) indexed(2) 66 files over 1 exec env
+2024-03-18 22:52:23.481 [info] [Info  - 10:52:23 PM] (55856) Indexing finished(2).
+2024-03-18 22:59:32.867 [info] [Info  - 10:59:32 PM] (55856) [BG(1)] Long operation: SemanticTokens full at file:///root/MobileAppenv/candyAPI/loadMongo.py (2435ms)
+2024-03-18 22:59:41.168 [info] [Info  - 10:59:41 PM] (55856) [BG(1)] Long operation: SemanticTokens full at file:///root/MobileAppenv/candyAPI/api.py (4160ms)
+2024-03-18 23:00:04.037 [info] [Info  - 11:00:04 PM] (55856) [BG(1)] Long operation: SemanticTokens delta previousResultId:1710802794575 at file:///root/MobileAppenv/candyAPI/api.py (2015ms)
+2024-03-18 23:41:58.761 [info] [Info  - 11:41:58 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:41:58.928 [info] [Info  - 11:41:58 PM] (55856) No source files found.
+2024-03-18 23:42:12.801 [info] [Info  - 11:42:12 PM] (55856) [BG(1)] Long operation: checking: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (10467ms)
+2024-03-18 23:42:12.801 [info] [Info  - 11:42:12 PM] (55856) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/PIL/Image.py (12668ms)
+2024-03-18 23:48:03.676 [info] [Info  - 11:48:03 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:48:03.685 [info] [Info  - 11:48:03 PM] (55856) No source files found.
+2024-03-18 23:48:04.035 [info] [Info  - 11:48:04 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:48:04.047 [info] [Info  - 11:48:04 PM] (55856) No source files found.
+2024-03-18 23:48:04.393 [info] [Info  - 11:48:04 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:48:04.410 [info] [Info  - 11:48:04 PM] (55856) No source files found.
+2024-03-18 23:48:05.103 [info] [Info  - 11:48:05 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:48:05.115 [info] [Info  - 11:48:05 PM] (55856) No source files found.
+2024-03-18 23:48:07.243 [info] [Info  - 11:48:07 PM] (55856) Auto-excluding /root/MobileAppenv
+2024-03-18 23:48:07.254 [info] [Info  - 11:48:07 PM] (55856) No source files found.
+2024-03-18 23:50:23.973 [info] [Info  - 11:50:23 PM] (55856) [BG(1)] Long operation: checking: file:///root/MobileAppenv/candyAPI/mongoManager.py (4160ms)
+2024-03-18 23:50:23.973 [info] [Info  - 11:50:23 PM] (55856) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/candyAPI/mongoManager.py (5124ms)

@@ -1,0 +1,11 @@
+2024-03-14 19:06:05.065 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-14 19:06:06.335 [info] [Info  - 7:06:06 PM] (3005) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-14 19:06:06.337 [info] [Info  - 7:06:06 PM] (3005) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-14 19:06:06.337 [info] [Info  - 7:06:06 PM] (3005) Starting service instance "MobileAppenv"
+2024-03-14 19:06:06.489 [info] [Info  - 7:06:06 PM] (3005) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-14 19:06:06.493 [info] [Info  - 7:06:06 PM] (3005) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-14 19:06:06.638 [info] [Info  - 7:06:06 PM] (3005) Assuming Python version 3.11
+2024-03-14 19:06:06.968 [info] [Info  - 7:06:06 PM] (3005) Auto-excluding /root/MobileAppenv
+2024-03-14 19:06:06.974 [info] [Info  - 7:06:06 PM] (3005) No source files found.
+2024-03-14 19:06:08.029 [info] [Info  - 7:06:08 PM] (3005) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-14 19:06:08.041 [info] [Info  - 7:06:08 PM] (3005) Background analysis(1) started

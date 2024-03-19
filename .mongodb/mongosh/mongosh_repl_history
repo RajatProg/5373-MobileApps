@@ -1,0 +1,30 @@
+show dbs
+cd
+show dbs
+use candies
+db.getCollectionNames()
+show tables
+show collections
+listCollections
+db.getCollectionNames()
+db.getCollectionInfos()
+use candy_store_2
+show tables
+use candies
+show tables
+ll
+use candy_store_2
+show dbs
+db.dropDatabase()
+use candy_store_2
+db.dropDatabase()
+ll
+use candy_store_1
+db.dropDatabase(candy_store_1)
+show dbs
+db.dropDatabase(candy_store_1)
+db.dropDatabase(candy_store_!)
+db.dropDatabase()
+drop candy_store_1:
+drop candy_store_1
+show dbs

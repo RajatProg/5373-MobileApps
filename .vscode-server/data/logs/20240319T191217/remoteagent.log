@@ -1,0 +1,28 @@
+2024-03-19 19:12:17.662 [info] 
+
+
+
+
+2024-03-19 19:12:17.705 [info] Extension host agent started.
+2024-03-19 19:12:18.084 [error] [127.0.0.1][aeb7f9d9][ManagementConnection] Unknown reconnection token (never seen).
+2024-03-19 19:12:18.218 [error] [127.0.0.1][7d580d89][ExtensionHostConnection] Unknown reconnection token (never seen).
+2024-03-19 19:13:59.004 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-03-19 19:13:59.004 [info] Cancelling previous shutdown timeout
+2024-03-19 19:13:59.545 [info] [127.0.0.1][5e0520a6][ManagementConnection] New connection established.
+2024-03-19 19:13:59.607 [info] [127.0.0.1][3f6e53ff][ExtensionHostConnection] New connection established.
+2024-03-19 19:13:59.614 [info] [127.0.0.1][3f6e53ff][ExtensionHostConnection] <85908> Launched Extension Host Process.
+2024-03-19 19:14:03.273 [error] CodeExpectedError: Could not find pty on pty host
+    at D.U (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:43:32578)
+    at D.updateTitle (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:43:27710)
+    at T.<computed> (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:43:22925)
+    at Object.call (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:34:5061)
+    at u.s (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:32:5165)
+    at u.q (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:32:4667)
+    at l.value (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:32:4065)
+    at m.y (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at m.fire (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process._ (/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/platform/terminal/node/ptyHostMain.js:25:10025)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-03-19 19:18:59.007 [info] New EH opened, aborting shutdown

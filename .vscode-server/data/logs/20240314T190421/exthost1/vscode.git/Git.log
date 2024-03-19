@@ -1,0 +1,32 @@
+2024-03-14 19:06:00.675 [info] Log level: Info
+2024-03-14 19:06:00.675 [info] Validating found git in: "git"
+2024-03-14 19:06:00.675 [info] Using git "2.40.1" from "git"
+2024-03-14 19:06:00.675 [info] > git rev-parse --show-toplevel [31ms]
+2024-03-14 19:06:00.675 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:00.675 [info] > git rev-parse --show-toplevel [531ms]
+2024-03-14 19:06:00.675 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:00.675 [info] > git rev-parse --show-toplevel [35ms]
+2024-03-14 19:06:00.675 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-03-14 19:06:00.675 [info] Open repository: /root/MobileAppenv/4443-5373-Mobile-Apps
+2024-03-14 19:06:00.675 [info] > git config --get commit.template [86ms]
+2024-03-14 19:06:00.675 [info] > git rev-parse --show-toplevel [87ms]
+2024-03-14 19:06:00.675 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:00.675 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [111ms]
+2024-03-14 19:06:00.700 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-14 19:06:00.702 [info] > git rev-parse --show-toplevel [103ms]
+2024-03-14 19:06:00.702 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:00.730 [info] > git rev-parse refs/remotes/origin/master [30ms]
+2024-03-14 19:06:00.754 [info] > git rev-parse --show-toplevel [27ms]
+2024-03-14 19:06:00.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:01.219 [info] > git rev-parse --show-toplevel [390ms]
+2024-03-14 19:06:01.219 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:01.410 [info] > git rev-parse --show-toplevel [57ms]
+2024-03-14 19:06:01.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-14 19:06:02.018 [info] > git check-ignore -v -z --stdin [627ms]
+2024-03-14 19:06:03.544 [info] > git status -z -uall [2792ms]
+2024-03-14 19:06:03.544 [info] > git check-ignore -v -z --stdin [10ms]
+2024-03-14 19:06:03.598 [info] > git config --get commit.template [31ms]
+2024-03-14 19:06:03.695 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-03-14 19:06:03.756 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-14 19:06:03.802 [info] > git rev-parse refs/remotes/origin/master [46ms]
+2024-03-14 19:06:04.575 [info] > git status -z -uall [724ms]

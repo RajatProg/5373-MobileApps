@@ -1,0 +1,9 @@
+2024-03-17 11:43:41.875 [info] 
+
+
+
+
+2024-03-17 11:43:41.917 [info] Extension host agent started.
+2024-03-17 11:43:50.139 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-03-17 11:43:50.140 [info] Cancelling previous shutdown timeout
+2024-03-17 11:48:50.143 [info] Last EH closed, shutting down

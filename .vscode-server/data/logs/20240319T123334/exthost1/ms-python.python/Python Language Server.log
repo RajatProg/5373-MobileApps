@@ -1,0 +1,22 @@
+2024-03-19 12:34:32.578 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-19 12:34:34.790 [info] [Info  - 12:34:34 PM] (70634) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-19 12:34:34.797 [info] [Info  - 12:34:34 PM] (70634) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-19 12:34:34.797 [info] [Info  - 12:34:34 PM] (70634) Starting service instance "MobileAppenv"
+2024-03-19 12:34:35.082 [info] [Info  - 12:34:35 PM] (70634) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-19 12:34:35.089 [info] [Info  - 12:34:35 PM] (70634) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-19 12:34:35.242 [info] [Info  - 12:34:35 PM] (70634) Assuming Python version 3.11
+2024-03-19 12:34:35.544 [info] [Info  - 12:34:35 PM] (70634) Auto-excluding /root/MobileAppenv
+2024-03-19 12:34:35.555 [info] [Info  - 12:34:35 PM] (70634) No source files found.
+2024-03-19 12:34:38.805 [info] [Info  - 12:34:38 PM] (70634) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-19 12:34:38.821 [info] [Info  - 12:34:38 PM] (70634) Background analysis(1) started
+2024-03-19 12:34:39.645 [info] [Info  - 12:34:39 PM] (70634) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-19 12:34:39.647 [info] [Info  - 12:34:39 PM] (70634) Indexing(2) started
+2024-03-19 12:34:44.937 [info] [Info  - 12:34:44 PM] (70634) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (5268ms)
+2024-03-19 12:34:44.938 [info] [Info  - 12:34:44 PM] (70634) scanned(2) 76 files over 1 exec env
+2024-03-19 12:34:49.702 [info] [Info  - 12:34:49 PM] (70634) [BG(1)] Long operation: checking: file:///root/MobileAppenv/candyAPI/mongoManager.py (8111ms)
+2024-03-19 12:34:49.717 [info] [Info  - 12:34:49 PM] (70634) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/candyAPI/mongoManager.py (9816ms)
+2024-03-19 12:34:50.577 [info] [Info  - 12:34:50 PM] (70634) indexed(2) 66 files over 1 exec env
+2024-03-19 12:34:50.857 [info] [Info  - 12:34:50 PM] (70634) Indexing finished(2).
+2024-03-19 13:55:36.193 [info] [Info  - 1:55:36 PM] (70634) [BG(1)] Long operation: SemanticTokens full at file:///root/MobileAppenv/candyAPI/api.py (7239ms)
+2024-03-19 13:57:36.044 [info] [Info  - 1:57:36 PM] (70634) [BG(1)] Long operation: SemanticTokens delta previousResultId:1710856641847 at file:///root/MobileAppenv/candyAPI/api.py (2175ms)
+2024-03-19 14:01:36.961 [info] [Info  - 2:01:36 PM] (70634) [BG(1)] Long operation: SemanticTokens full at file:///root/MobileAppenv/.venv/lib/python3.11/site-packages/uvicorn/config.py (2737ms)

@@ -1,0 +1,102 @@
+2024-03-19 19:14:11.026 [info] Log level: Info
+2024-03-19 19:14:11.026 [info] Validating found git in: "git"
+2024-03-19 19:14:11.026 [info] Using git "2.40.1" from "git"
+2024-03-19 19:14:11.026 [info] > git rev-parse --show-toplevel [93ms]
+2024-03-19 19:14:11.026 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.026 [info] > git rev-parse --show-toplevel [16ms]
+2024-03-19 19:14:11.026 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.026 [info] > git rev-parse --show-toplevel [37ms]
+2024-03-19 19:14:11.026 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.026 [info] > git rev-parse --show-toplevel [9ms]
+2024-03-19 19:14:11.026 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-03-19 19:14:11.026 [info] Open repository: /root/MobileAppenv/4443-5373-Mobile-Apps
+2024-03-19 19:14:11.026 [info] > git rev-parse --show-toplevel [72ms]
+2024-03-19 19:14:11.026 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.026 [info] > git config --get commit.template [96ms]
+2024-03-19 19:14:11.274 [info] > git rev-parse --show-toplevel [248ms]
+2024-03-19 19:14:11.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.289 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [246ms]
+2024-03-19 19:14:11.346 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:14:11.354 [info] > git rev-parse --show-toplevel [66ms]
+2024-03-19 19:14:11.354 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.366 [info] > git rev-parse refs/remotes/origin/master [20ms]
+2024-03-19 19:14:11.408 [info] > git rev-parse --show-toplevel [42ms]
+2024-03-19 19:14:11.408 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.447 [info] > git rev-parse --show-toplevel [17ms]
+2024-03-19 19:14:11.447 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:11.484 [info] > git rev-parse --show-toplevel [17ms]
+2024-03-19 19:14:11.484 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:14:12.005 [info] > git check-ignore -v -z --stdin [55ms]
+2024-03-19 19:14:13.106 [info] > git status -z -uall [1724ms]
+2024-03-19 19:14:13.234 [info] > git config --get commit.template [35ms]
+2024-03-19 19:14:13.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-03-19 19:14:13.296 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:14:13.305 [info] > git rev-parse refs/remotes/origin/master [10ms]
+2024-03-19 19:14:14.281 [info] > git status -z -uall [939ms]
+2024-03-19 19:15:12.706 [info] > git merge-base refs/heads/master refs/remotes/origin/master [7ms]
+2024-03-19 19:15:12.727 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [5ms]
+2024-03-19 19:15:12.999 [info] > git rev-parse --show-toplevel [13ms]
+2024-03-19 19:15:12.999 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-19 19:21:57.732 [info] > git config --get commit.template [15ms]
+2024-03-19 19:21:57.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-03-19 19:21:57.749 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:21:57.752 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2024-03-19 19:21:58.403 [info] > git status -z -uall [641ms]
+2024-03-19 19:21:58.610 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2024-03-19 19:21:58.626 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [5ms]
+2024-03-19 19:22:10.470 [info] > git rev-parse --show-toplevel [5ms]
+2024-03-19 19:22:17.525 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-19 19:22:17.605 [info] > git rev-parse --git-dir --git-common-dir [67ms]
+2024-03-19 19:22:17.614 [info] Open repository: /root
+2024-03-19 19:22:17.642 [info] No remotes found in the git config file.
+2024-03-19 19:22:17.644 [info] > git config --get commit.template [17ms]
+2024-03-19 19:22:17.649 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-03-19 19:22:17.649 [warning] No such branch: master.
+2024-03-19 19:22:18.262 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [56ms]
+2024-03-19 19:22:18.278 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [17ms]
+2024-03-19 19:22:18.414 [info] > git check-ignore -v -z --stdin [19ms]
+2024-03-19 19:22:19.345 [info] > git status -z -uall [1685ms] (cancelled)
+2024-03-19 19:23:25.185 [info] > git remote add origin https://github.com/RajatProg/root.git [12ms]
+2024-03-19 19:23:25.228 [info] > git config --get commit.template [19ms]
+2024-03-19 19:23:25.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-03-19 19:23:25.231 [warning] No such branch: master.
+2024-03-19 19:23:25.554 [info] > git status -z -uall [307ms] (cancelled)
+2024-03-19 19:23:29.547 [info] > git config --get commit.template [276ms]
+2024-03-19 19:23:29.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-03-19 19:23:29.672 [warning] No such branch: master.
+2024-03-19 19:23:32.352 [info] > git status -z -uall [2655ms] (cancelled)
+2024-03-19 19:23:34.222 [info] > git push -u origin master [1566ms]
+2024-03-19 19:23:34.224 [info] error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/RajatProg/root.git'
+2024-03-19 19:23:34.245 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [1866ms]
+2024-03-19 19:23:34.462 [info] > git config --get commit.template [42ms]
+2024-03-19 19:23:34.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [45ms]
+2024-03-19 19:23:34.611 [warning] No such branch: master.
+2024-03-19 19:23:36.692 [info] > git status -z -uall [2061ms] (cancelled)
+2024-03-19 19:23:36.693 [info] > git check-ignore -v -z --stdin [1494ms]
+2024-03-19 19:23:36.736 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [8ms]
+2024-03-19 19:23:38.384 [info] > git check-ignore -v -z --stdin [4ms]
+2024-03-19 19:23:45.784 [info] > git check-ignore -v -z --stdin [9ms]
+2024-03-19 19:23:48.081 [info] > git check-ignore -v -z --stdin [6ms]
+2024-03-19 19:23:49.976 [info] > git check-ignore -v -z --stdin [7ms]
+2024-03-19 19:23:51.858 [info] > git check-ignore -v -z --stdin [5ms]
+2024-03-19 19:23:53.337 [info] > git check-ignore -v -z --stdin [6ms]
+2024-03-19 19:23:54.084 [info] > git check-ignore -v -z --stdin [5ms]
+2024-03-19 19:24:06.294 [info] > git check-ignore -v -z --stdin [4ms]
+2024-03-19 19:24:07.554 [info] > git check-ignore -v -z --stdin [3ms]
+2024-03-19 19:24:10.989 [info] > git check-ignore -v -z --stdin [11ms]
+2024-03-19 19:25:42.355 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-03-19 19:26:02.313 [info] > git checkout -q -b Assignments --no-track HEAD [5ms]
+2024-03-19 19:26:02.314 [info] fatal: 'HEAD' is not a commit and a branch 'Assignments' cannot be created from it
+2024-03-19 19:26:02.359 [info] > git config --get commit.template [23ms]
+2024-03-19 19:26:02.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-03-19 19:26:02.364 [warning] No such branch: master.
+2024-03-19 19:26:05.243 [info] > git status -z -uall [2862ms] (cancelled)
+2024-03-19 19:26:38.363 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-03-19 19:26:48.809 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [25ms]
+2024-03-19 19:26:48.819 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [12ms]
+2024-03-19 19:27:15.653 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-03-19 19:27:33.959 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-03-19 19:28:02.747 [info] > git config --get commit.template [63ms]
+2024-03-19 19:28:02.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-03-19 19:28:02.760 [warning] No such branch: master.

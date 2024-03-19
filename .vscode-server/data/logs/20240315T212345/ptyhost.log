@@ -1,0 +1,46 @@
+2024-03-15 21:24:07.312 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n\tfi\nfi\nexit 0"]
+2024-03-15 21:24:07.381 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n\tfi\nfi\nexit 0"]
+2024-03-15 21:24:07.408 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n\tfi\nfi\nexit 0"]
+2024-03-15 21:24:07.437 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","wget --version > /dev/null\nif [ $? -eq 0 ]\nthen\n\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\nelse\n\tcurl --version > /dev/null\n\tif [ $? -eq 0 ]\n\tthen\n\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n\tfi\nfi\nexit 0"]
+2024-03-15 21:31:08.655 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 21:31:08.656 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 21:31:08.657 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 21:46:24.758 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 21:46:24.759 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 21:46:24.761 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 21:46:25.135 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 22:13:13.060 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 22:13:13.061 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 22:13:13.062 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 22:13:13.330 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:31:27.484 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 23:31:27.486 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:31:27.487 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:31:27.489 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 23:31:27.490 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:31:27.490 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:31:27.543 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:47:43.540 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-15 23:47:43.540 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:47:43.541 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-15 23:47:43.890 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:17:34.223 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-16 00:17:34.224 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:17:34.225 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:17:34.227 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:42:39.577 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-16 00:42:39.577 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:42:39.577 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 00:42:39.579 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:01:43.827 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-16 01:01:43.827 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:01:43.827 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:01:44.052 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:41.346 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-16 01:15:41.347 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:41.347 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:41.348 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2024-03-16 01:15:41.349 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:41.349 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:41.350 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2024-03-16 01:15:51.922 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host

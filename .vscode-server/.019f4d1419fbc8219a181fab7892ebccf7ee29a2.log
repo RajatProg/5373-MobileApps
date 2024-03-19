@@ -1,0 +1,32 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46183 (IPv4)
+Extension host agent listening on 46183
+
+[18:17:13] 
+
+
+
+
+[18:17:13] Extension host agent started.
+[18:17:13] Deleted uninstalled extension from disk ms-python.debugpy /root/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+[18:17:13] Deleted uninstalled extension from disk ms-python.python /root/.vscode-server/extensions/ms-python.python-2024.0.1
+[18:17:14] [127.0.0.1][e807f086][ManagementConnection] New connection established.
+[18:17:14] [127.0.0.1][8eb6d88b][ExtensionHostConnection] New connection established.
+[18:17:14] [127.0.0.1][8eb6d88b][ExtensionHostConnection] <139955> Launched Extension Host Process.
+[18:17:22] Getting Manifest... ms-python.vscode-pylance
+[18:17:22] Installing extension: ms-python.vscode-pylance
+[18:17:24] Getting Manifest... ms-python.python
+[18:17:37] Extension signature is verified: ms-python.vscode-pylance
+[18:18:05] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1: ms-python.vscode-pylance
+[18:18:05] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1
+[18:18:05] Extracting extension completed. ms-python.vscode-pylance
+[18:18:05] Extension installed successfully: ms-python.vscode-pylance
+[18:18:05] Marked extension as uninstalled ms-python.vscode-pylance-2024.2.2
+New EH opened, aborting shutdown
+[18:22:13] New EH opened, aborting shutdown

@@ -1,0 +1,19 @@
+2024-03-16 17:40:34.444 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-16 17:40:35.631 [info] [Info  - 5:40:35 PM] (40943) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-16 17:40:35.633 [info] [Info  - 5:40:35 PM] (40943) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-16 17:40:35.636 [info] [Info  - 5:40:35 PM] (40943) Starting service instance "MobileAppenv"
+2024-03-16 17:40:35.897 [info] [Info  - 5:40:35 PM] (40943) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-16 17:40:35.900 [info] [Info  - 5:40:35 PM] (40943) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-16 17:40:36.088 [info] [Info  - 5:40:36 PM] (40943) Assuming Python version 3.11
+2024-03-16 17:40:36.305 [info] [Info  - 5:40:36 PM] (40943) Auto-excluding /root/MobileAppenv
+2024-03-16 17:40:36.307 [info] [Info  - 5:40:36 PM] (40943) No source files found.
+2024-03-16 17:40:38.857 [info] [Info  - 5:40:38 PM] (40943) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-16 17:40:38.874 [info] [Info  - 5:40:38 PM] (40943) Background analysis(1) started
+2024-03-16 17:40:39.753 [info] [Info  - 5:40:39 PM] (40943) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-16 17:40:39.754 [info] [Info  - 5:40:39 PM] (40943) Indexing(2) started
+2024-03-16 17:40:43.883 [info] [Info  - 5:40:43 PM] (40943) [BG(1)] Long operation: checking: file:///root/MobileAppenv/candyAPI/test_mongo.py (2859ms)
+2024-03-16 17:40:43.884 [info] [Info  - 5:40:43 PM] (40943) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/candyAPI/test_mongo.py (4538ms)
+2024-03-16 17:40:44.437 [info] [Info  - 5:40:44 PM] (40943) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (4603ms)
+2024-03-16 17:40:44.437 [info] [Info  - 5:40:44 PM] (40943) scanned(2) 76 files over 1 exec env
+2024-03-16 17:40:46.817 [info] [Info  - 5:40:46 PM] (40943) indexed(2) 66 files over 1 exec env
+2024-03-16 17:40:47.109 [info] [Info  - 5:40:47 PM] (40943) Indexing finished(2).
