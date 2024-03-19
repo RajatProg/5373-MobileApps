@@ -100,3 +100,60 @@ error: failed to push some refs to 'https://github.com/RajatProg/root.git'
 2024-03-19 19:28:02.747 [info] > git config --get commit.template [63ms]
 2024-03-19 19:28:02.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
 2024-03-19 19:28:02.760 [warning] No such branch: master.
+2024-03-19 19:28:09.259 [info] > git status -z -uall [6451ms] (cancelled)
+2024-03-19 19:28:18.912 [info] > git add -A -- . [30847ms]
+2024-03-19 19:28:18.913 [info] warning: adding embedded git repository: MobileAppenv/4443-5373-Mobile-Apps
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> MobileAppenv/4443-5373-Mobile-Apps
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached MobileAppenv/4443-5373-Mobile-Apps
+hint: 
+hint: See "git help submodule" for more information.
+2024-03-19 19:28:18.969 [info] > git config --get commit.template [24ms]
+2024-03-19 19:28:18.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-03-19 19:28:18.974 [warning] No such branch: master.
+2024-03-19 19:28:23.935 [info] > git status -z -uall [4943ms] (cancelled)
+2024-03-19 19:28:23.945 [info] > git -c user.useConfigOnly=true commit --quiet [2936ms]
+2024-03-19 19:28:23.948 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-03-19 19:28:24.111 [info] > git config --get-all user.name [54ms]
+2024-03-19 19:28:24.181 [info] > git config --get commit.template [41ms]
+2024-03-19 19:28:24.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-03-19 19:28:24.265 [warning] No such branch: master.
+2024-03-19 19:28:27.750 [info] > git status -z -uall [3456ms] (cancelled)
+2024-03-19 19:28:48.057 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-03-19 19:28:51.227 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-03-19 19:29:06.083 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [13ms]
+2024-03-19 19:29:06.107 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [5ms]
+2024-03-19 19:29:06.284 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [21ms]
+2024-03-19 19:29:19.784 [info] > git checkout -q -b 5373-MobileApps --no-track HEAD [4ms]
+2024-03-19 19:29:19.785 [info] fatal: 'HEAD' is not a commit and a branch '5373-MobileApps' cannot be created from it
+2024-03-19 19:29:19.830 [info] > git config --get commit.template [24ms]
+2024-03-19 19:29:19.834 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-03-19 19:29:19.835 [warning] No such branch: master.
+2024-03-19 19:29:22.834 [info] > git status -z -uall [2982ms] (cancelled)
+2024-03-19 19:29:44.014 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-03-19 19:30:05.068 [info] > git checkout -q -b RajatProg/5373-MobileApps --no-track HEAD [7ms]
+2024-03-19 19:30:05.069 [info] fatal: 'HEAD' is not a commit and a branch 'RajatProg/5373-MobileApps' cannot be created from it
+2024-03-19 19:30:05.153 [info] > git config --get commit.template [38ms]
+2024-03-19 19:30:05.157 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-03-19 19:30:05.158 [warning] No such branch: master.
+2024-03-19 19:30:09.554 [info] > git status -z -uall [4361ms] (cancelled)

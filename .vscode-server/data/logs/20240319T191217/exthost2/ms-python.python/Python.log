@@ -1,0 +1,15 @@
+2024-03-19 19:32:16.272 [info] Experiment 'pythonaacf' is active
+2024-03-19 19:32:16.272 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-19 19:32:16.272 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-19 19:32:16.272 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-19 19:32:16.272 [info] Experiment 'pythonTestAdapter' is active
+2024-03-19 19:32:16.272 [info] Default formatter is set to null for workspace /root/MobileAppenv
+2024-03-19 19:32:16.272 [info] Test server listening.
+2024-03-19 19:32:16.272 [info] Python interpreter path: ./.venv/bin/python
+2024-03-19 19:32:19.495 [info] > . ./.venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-19 19:32:19.495 [info] shell: bash
+2024-03-19 19:32:19.793 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariables.py
+2024-03-19 19:32:19.793 [info] shell: bash
+2024-03-19 19:32:20.067 [info] Send text to terminal: /bin/python3 /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+2024-03-19 19:32:29.394 [info] Starting Pylance language server.
+2024-03-19 19:33:28.971 [info] Discover tests for workspace name: MobileAppenv - uri: /root/MobileAppenv

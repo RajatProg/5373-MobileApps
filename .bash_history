@@ -633,3 +633,14 @@ apt update
 apt upgrade
 /bin/python3 /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
 /bin/python3 /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+..
+cd ..
+deactivate
+ll
+git init
+git config  --global init Assignments
+git branch -m Assignments
+ll
+git config  --global init https://github.com/RajatProg/5373-MobileApps.git
+git branch -m https://github.com/RajatProg/5373-MobileApps.git
+git branch -m master

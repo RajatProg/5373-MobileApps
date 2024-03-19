@@ -30,5 +30,5 @@ BROWSER=/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/bin/he
 PATH=/root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash:/root/MobileAppenv/.venv/bin:/root/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash:/root/MobileAppenv/.venv/bin:/root/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
 TERM_PROGRAM=vscode
-VSCODE_IPC_HOOK_CLI=/run/user/0/vscode-ipc-dc530a1c-66b4-4e94-9870-bfe5bc30fd8f.sock
+VSCODE_IPC_HOOK_CLI=/run/user/0/vscode-ipc-71adecdd-0227-40d5-afa4-526d517c4bcf.sock
 _=/bin/python3

@@ -1,0 +1,61 @@
+2024-03-19 19:32:18.052 [info] Log level: Info
+2024-03-19 19:32:18.052 [info] Validating found git in: "git"
+2024-03-19 19:32:18.052 [info] Using git "2.40.1" from "git"
+2024-03-19 19:32:18.052 [info] > git rev-parse --show-toplevel [11ms]
+2024-03-19 19:32:18.052 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2024-03-19 19:32:18.052 [info] Open repository: /root
+2024-03-19 19:32:18.052 [info] > git rev-parse --show-toplevel [11ms]
+2024-03-19 19:32:18.052 [info] > git config --get commit.template [26ms]
+2024-03-19 19:32:18.052 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2024-03-19 19:32:18.052 [warning] No such branch: master.
+2024-03-19 19:32:18.052 [info] > git rev-parse --show-toplevel [78ms]
+2024-03-19 19:32:18.052 [info] > git rev-parse --show-toplevel [179ms]
+2024-03-19 19:32:18.052 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-03-19 19:32:18.052 [info] Open repository: /root/MobileAppenv/4443-5373-Mobile-Apps
+2024-03-19 19:32:18.052 [info] > git config --get commit.template [77ms]
+2024-03-19 19:32:18.052 [info] > git rev-parse --show-toplevel [74ms]
+2024-03-19 19:32:18.052 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [43ms]
+2024-03-19 19:32:18.052 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:32:18.064 [info] > git rev-parse --show-toplevel [54ms]
+2024-03-19 19:32:18.064 [info] > git rev-parse refs/remotes/origin/master [49ms]
+2024-03-19 19:32:18.064 [info] > git rev-parse --show-toplevel [33ms]
+2024-03-19 19:32:18.064 [info] > git rev-parse --show-toplevel [20ms]
+2024-03-19 19:32:18.150 [info] > git rev-parse --show-toplevel [41ms]
+2024-03-19 19:32:18.213 [info] > git rev-parse --show-toplevel [30ms]
+2024-03-19 19:32:18.601 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [67ms]
+2024-03-19 19:32:18.954 [info] > git check-ignore -v -z --stdin [20ms]
+2024-03-19 19:32:18.955 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [356ms]
+2024-03-19 19:32:19.087 [info] > git status -z -uall [2154ms] (cancelled)
+2024-03-19 19:32:19.087 [info] > git status -z -uall [1323ms]
+2024-03-19 19:32:19.087 [info] > git check-ignore -v -z --stdin [205ms]
+2024-03-19 19:32:19.110 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [83ms]
+2024-03-19 19:32:19.184 [info] > git config --get commit.template [49ms]
+2024-03-19 19:32:19.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-03-19 19:32:19.206 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:32:19.337 [info] > git rev-parse refs/remotes/origin/master [132ms]
+2024-03-19 19:32:20.824 [info] > git status -z -uall [1461ms]
+2024-03-19 19:32:28.986 [info] > git config --get commit.template [115ms]
+2024-03-19 19:32:29.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [315ms]
+2024-03-19 19:32:29.444 [warning] No such branch: master.
+2024-03-19 19:32:47.541 [info] > git status -z -uall [18046ms] (cancelled)
+2024-03-19 19:40:09.586 [info] > git check-ignore -v -z --stdin [20ms]
+2024-03-19 19:41:52.976 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [49ms]
+2024-03-19 19:41:53.061 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [14ms]
+2024-03-19 19:41:53.206 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [38ms]
+2024-03-19 19:43:15.582 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [22ms]
+2024-03-19 19:43:15.608 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [6ms]
+2024-03-19 19:43:15.701 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [19ms]
+2024-03-19 19:44:39.399 [info] > git config --get commit.template [41ms]
+2024-03-19 19:44:39.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-03-19 19:44:39.432 [warning] ENOENT: no such file or directory, open '/root/MobileAppenv/4443-5373-Mobile-Apps/.git/refs/remotes/origin/master'
+2024-03-19 19:44:39.439 [info] > git rev-parse refs/remotes/origin/master [7ms]
+2024-03-19 19:44:39.489 [info] > git status -z -uall [25ms]
+2024-03-19 19:47:44.081 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [15ms]
+2024-03-19 19:47:44.115 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [5ms]
+2024-03-19 19:47:44.217 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [15ms]
+2024-03-19 19:53:32.783 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [11ms]
+2024-03-19 19:53:32.809 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [6ms]
+2024-03-19 19:53:32.920 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [12ms]
+2024-03-19 19:54:10.325 [info] > git ls-files --stage -- /root/MobileAppenv/candyAPI/api.py [17ms]
+2024-03-19 19:54:10.378 [info] > git cat-file -s cb80aacf1a65d5d50ca4eb85c655a3c50ad0b842 [8ms]
+2024-03-19 19:54:10.504 [info] > git show --textconv :MobileAppenv/candyAPI/api.py [16ms]

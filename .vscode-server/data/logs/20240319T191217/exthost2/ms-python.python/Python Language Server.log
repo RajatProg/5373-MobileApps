@@ -1,0 +1,19 @@
+2024-03-19 19:32:20.086 [info] (Client) Pylance async client (2024.3.1) started with python extension (2024.2.1)
+2024-03-19 19:32:28.922 [info] [Info  - 7:32:28 PM] (87518) Pylance language server 2024.3.1 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-19 19:32:28.985 [info] [Info  - 7:32:28 PM] (87518) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-19 19:32:29.004 [info] [Info  - 7:32:29 PM] (87518) Starting service instance "MobileAppenv"
+2024-03-19 19:32:29.443 [info] [Info  - 7:32:29 PM] (87518) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist
+2024-03-19 19:32:29.497 [info] [Info  - 7:32:29 PM] (87518) Background analysis(1) started
+2024-03-19 19:32:29.769 [info] [Info  - 7:32:29 PM] (87518) Setting pythonPath for service "MobileAppenv": "/root/MobileAppenv/.venv/bin/python"
+2024-03-19 19:32:29.769 [info] [Info  - 7:32:29 PM] (87518) Setting environmentName for service "MobileAppenv": "3.11.6 (.venv venv)"
+2024-03-19 19:32:30.230 [info] [Info  - 7:32:30 PM] (87518) Assuming Python version 3.11
+2024-03-19 19:32:30.534 [info] [Info  - 7:32:30 PM] (87518) Auto-excluding /root/MobileAppenv
+2024-03-19 19:32:30.561 [info] [Info  - 7:32:30 PM] (87518) No source files found.
+2024-03-19 19:32:48.419 [info] [Info  - 7:32:48 PM] (87518) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.3.1/dist (index)
+2024-03-19 19:32:48.436 [info] [Info  - 7:32:48 PM] (87518) Indexing(2) started
+2024-03-19 19:32:48.437 [info] [Info  - 7:32:48 PM] (87518) [IDX(2)] Long operation: scan packages file:///root/MobileAppenv (5460ms)
+2024-03-19 19:32:48.440 [info] [Info  - 7:32:48 PM] (87518) scanned(2) 76 files over 1 exec env
+2024-03-19 19:32:49.945 [info] [Info  - 7:32:49 PM] (87518) indexed(2) 66 files over 1 exec env
+2024-03-19 19:32:50.677 [info] [Info  - 7:32:50 PM] (87518) Indexing finished(2).
+2024-03-19 19:32:51.361 [info] [Info  - 7:32:51 PM] (87518) [BG(1)] Long operation: checking: file:///root/MobileAppenv/candyAPI/api.py (17794ms)
+2024-03-19 19:32:51.361 [info] [Info  - 7:32:51 PM] (87518) [BG(1)] Long operation: analyzing: file:///root/MobileAppenv/candyAPI/api.py (20168ms)
